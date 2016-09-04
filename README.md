@@ -1,6 +1,7 @@
 # Fresh Direct
 
 [![GoDoc](https://godoc.org/github.com/adammck/freshdirect?status.svg)](https://godoc.org/github.com/adammck/freshdirect)
+[![Build Status](https://travis-ci.org/adammck/freshdirect.svg?branch=master)](https://travis-ci.org/adammck/freshdirect)
 
 This is a Go interface to [FreshDirect](https://freshdirect.com). It's roughly
 zero percent complete, but works well enough for me to add groceries to my cart
